@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shosh3sb
 - 👀 I’m interested in AI 
-- 🌱 I’m currently learning PYTHON
+- 🌱 PYTHON ^_^
 - 💞️ I’m looking to collaborate on PYTHON FOR AI
 - 📫 How to reach me ALASBALI.SH13@GMAIL.COM
 <!---
